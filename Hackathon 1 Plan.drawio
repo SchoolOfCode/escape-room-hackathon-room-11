@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2024-02-08T12:34:31.458Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YDsfMrc-cMm2R9qluLyM" version="23.1.1" type="google">
+  <diagram name="Scratch Escape Room Plan" id="xKTl0vtNWGMNyFuy5SxE">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-1" target="_Yw_qhZP6IEhDLWubzux-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-1" target="_Yw_qhZP6IEhDLWubzux-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-1" target="_Yw_qhZP6IEhDLWubzux-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-1" value="&lt;b&gt;Plan Phase&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Understand problem&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Break it down&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-160" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-2" value="&lt;p&gt;OBJECTIVES&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Create an escape room&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Ensure MVP at all times so it doesn&#39;t matter if we don&#39;t finish&lt;/li&gt;&lt;li&gt;Add features to continue to improve until the end&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-210" width="460" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-3" target="_Yw_qhZP6IEhDLWubzux-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-3" value="&lt;b&gt;Building Phase&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Build intro screen&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Build a room at a time&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-4" target="_Yw_qhZP6IEhDLWubzux-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-4" value="&lt;b&gt;Testing Phase&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Test each room&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-5" value="STEP BY STEP&lt;br&gt;&lt;ul&gt;&lt;li&gt;Look below for Dreamer, Realist and Critic&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-110" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-11" value="&lt;h2&gt;DREAMER&lt;/h2&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Multiple rooms&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;More than one puzzle per room&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Progressively harder as you go&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Themed rooms but overarching theme helps solve final puzzle&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Field, forest, cave, dungeon&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Final room has a prize&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Need to find key to open lock to next level&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;All keys combine to make a final mega key (E.G. A LETTER FROM EACH PREVIOUS SOLUTION WHICH WOULD LEAD TO THE FINAL KEY)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Each room represents a different time period (pre-historic, mud huts, egyptian, medieval, industrial revolution, world war 1 era, world war 2 era, sixties, seventies, eighties, modern, futuristic)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Puzzles - press to open the door, pick up key then open the door, colour matching, pressure plate (put something on it so you can go through door), safe with combination (where numbers are hidden in the level), hidden entrance (breakable wall with something behind it), spinning plates to match up with mural and that opens door,&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="600" width="250" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LLgnllMyMfaht3deXP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-13" target="_Yw_qhZP6IEhDLWubzux-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-13" value="&lt;h2&gt;REALIST&lt;/h2&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;No more than 3/4 puzzles. Start with 1, then progress at a time (MVP)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;One puzzle per room&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;2D not 3D&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Focusing on one will provide a better outcome&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Needs an end goal to make it worthwhile&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Spell out a letter at end of each small puzzle. Final word is final answer&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Puzzles - (MVP in bold)&amp;nbsp;&lt;b&gt;golf club put ball into a hole, basketball into net, football into goal&lt;/b&gt;, pool where you have to black down the pocket last&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;A sprite pops up to give a letter at the end of each. Randomised. They then have to anagram &#39;CODE&#39; or &#39;SOC&#39; at the end of it to escape the sports room&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="250" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-14" value="&lt;h2&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;CRITIC&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/h2&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Potentially too much work. Do one puzzle per room.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Easiest first. Football into goal. Opens door to next room...THEN...&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Second putt golf ball into hole. Opens door to next room...THEN...&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Basketball into net. Some sort of trajectory....THEN...&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;If finished, include a letter in each room previous to this, which spells out a code to finish final room&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="600" width="250" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-19" target="_Yw_qhZP6IEhDLWubzux-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-19" value="FOOTBALL&lt;br&gt;&lt;ol&gt;&lt;li&gt;Get sprites of football, footballer, open net and door.&lt;/li&gt;&lt;li&gt;Make ball move when touched by footballer.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Ball only moves towards goal&lt;/li&gt;&lt;li&gt;When ball reaches goal the door should open&lt;/li&gt;&lt;li&gt;When door opens a congratulations message to appear and move onto next stage&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="510" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-20" target="_Yw_qhZP6IEhDLWubzux-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-20" value="GOLF&lt;br&gt;&lt;ol&gt;&lt;li&gt;Get sprites of golf ball, club, hole and door&lt;/li&gt;&lt;li&gt;Make ball move when touched by club&lt;/li&gt;&lt;li&gt;Ball can move in any direction&lt;/li&gt;&lt;li&gt;When ball reaches hole, the ball should disappear and door should open&lt;/li&gt;&lt;li&gt;When door opens a congraulations message to appear and move onto next stage&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;BASKETBALL&lt;br&gt;&lt;/span&gt;&lt;ol&gt;&lt;li&gt;Use lessons from above to create basketball game in the same way.&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-22" value="&lt;span style=&quot;background-color: initial;&quot;&gt;OVERARCHING PUZZLE GAME&lt;/span&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Letter in each room to spell out a code at the end&lt;/li&gt;&lt;li&gt;Prompt to player to work out anagram and spell out something&lt;/li&gt;&lt;li&gt;Require player input of letters&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="510" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LLgnllMyMfaht3deXP-6" value="&amp;nbsp;TIME DEPENDENT - WORK WAY BACK FROM CRITIC (MVP) TO REALIST (MVP+) TO DREAMER (MVP++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1110" width="740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LLgnllMyMfaht3deXP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-14" target="_Yw_qhZP6IEhDLWubzux-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LLgnllMyMfaht3deXP-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="1090" as="sourcePoint" />
+            <mxPoint x="20" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-21" target="_Yw_qhZP6IEhDLWubzux-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_Yw_qhZP6IEhDLWubzux-3" target="_Yw_qhZP6IEhDLWubzux-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="420" as="sourcePoint" />
+            <mxPoint x="250" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="250" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-30" value="INTRO&lt;br&gt;&lt;ol&gt;&lt;li&gt;Login screen to have input of player name&lt;/li&gt;&lt;li&gt;Intro message to explain this is an escape room&amp;nbsp;&lt;/li&gt;&lt;li&gt;As more rooms are finished, update message to explain what&#39;s happening.&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-10" width="500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Yw_qhZP6IEhDLWubzux-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_Yw_qhZP6IEhDLWubzux-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="170" as="sourcePoint" />
+            <mxPoint x="300" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
